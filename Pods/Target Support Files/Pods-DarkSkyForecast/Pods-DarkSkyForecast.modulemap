@@ -1,0 +1,6 @@
+framework module Pods_DarkSkyForecast {
+  umbrella header "Pods-DarkSkyForecast-umbrella.h"
+
+  export *
+  module * { export * }
+}
